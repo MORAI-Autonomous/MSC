@@ -1,0 +1,12 @@
+receive_user_ip : 127.0.0.1
+receive_user_port : 10329
+request_dst_ip : 127.0.0.1
+request_dst_port : 10509
+user_id : 
+user_pw : 
+version : v.R1.240407.0
+map : R_KR_PG_K-City
+vehicle : 2017_Kia_Niro(HEV)
+network_file : 
+Sensor_file :  
+Scenario_file : 
