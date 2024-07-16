@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- Encoding: utf-8 -*-
-file = open('params.txt', 'r')
+import os 
+file_path = os.path.join(os.path.dirname(os.path.dirname(__file__)),'params.txt')
+file = open(file_path, 'r')
 line = file.read()
 params = line.split('\n')
 
