@@ -18,6 +18,8 @@ class api :
         signal.signal(signal.SIGINT, self.signal_handler) #handle ctrl-c
         
         api = launcher_start()
+        api.controller.update()
+        #api.launcher_start()
 
         #LAUNCHER COMMAND
 
