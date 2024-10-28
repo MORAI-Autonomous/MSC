@@ -1,7 +1,7 @@
 receive_user_ip : 127.0.0.1
-receive_user_port : 10329
+receive_user_port : 10326
 request_dst_ip : 127.0.0.1
-request_dst_port : 10509
+request_dst_port : 10508
 user_id : 
 user_pw : 
 version : v.R1.240407.0
